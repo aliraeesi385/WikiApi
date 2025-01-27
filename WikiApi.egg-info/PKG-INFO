@@ -1,0 +1,45 @@
+Metadata-Version: 2.2
+Name: WikiApi
+Version: 0.0.1
+Summary: APIs of a telegram channel that's in the hands of Iranians, which is relatively good.
+Home-page: https://github.com/aliraeesi385/WikiApi
+Author: ali
+Author-email: liaraeesi@gmail.com
+Classifier: Programming Language :: Python :: 3.14
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: Persian
+Requires-Python: >=3.14
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# Wiki Api
+
+>Language Â»Â» Farsi
+
+## Example
+
+``` 
+import WikiApi
+
+gpt = WikiApi.Gpt
+
+info WikiApi.Info
+```
+<br><br><br>
+<p align="center">
+<a herf="https://wiki-api.ir/">WebSite</a>
+-
+<a herf="https://github.com/aliraeesi385/WikiApi">GitHub</a>
+-
+<a herrf="https://t.me/wiki_api">Telegram</a>
+</p>
